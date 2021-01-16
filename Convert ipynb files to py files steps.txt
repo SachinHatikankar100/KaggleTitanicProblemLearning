@@ -1,0 +1,10 @@
+By following below steps you can get .py file
+
+Install "pip install ipynb-py-convert"
+Go to the directory where the ipynb file is saved via command prompt
+Enter the command
+> ipynb-py-convert YourFileName.ipynb YourFilename.py
+
+Eg:. ipynb-py-convert getting-started-with-kaggle-titanic-problem.ipynb getting-started-with-kaggle-titanic-problem.py
+
+Above command will create a python script with the name "YourFileName.py" and as per our example it will create getting-started-with-kaggle-titanic-problem.py file
